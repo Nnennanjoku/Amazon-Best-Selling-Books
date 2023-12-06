@@ -69,3 +69,6 @@ The aim of this project is to Unravel what type of books were bought frequently,
 - There is no relationship between rating and price
 
 - We observed that 2009 had the highest best selling book with the sum of 1288.12 followed by 2003 with 1236.07 and 2013 with 1224.43. The sum price of books decreased in year 2016
+
+## Medium
+You can also read my article on this project on [Medium](https://medium.com/@njokunnenna26/amazon-best-selling-books-analysis-using-python-264a89810469)
